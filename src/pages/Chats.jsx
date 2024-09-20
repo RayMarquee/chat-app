@@ -5,7 +5,7 @@ import ChatArea from '../components/chat/ChatArea'
 import Welcome from '../components/chat/Welcome'
 import { useUser } from '../contexts/UserContext'
 import api from '../configs/api'
-import ListOfUsers from '../components/chat/ListofUsers'
+import ListOfUsers from '../components/chat/ListOfUsers'
 
 const Chats = () => {
 
